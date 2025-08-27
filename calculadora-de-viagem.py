@@ -10,7 +10,7 @@ print('                                             TABELA DE VALORES DE COMBUST
 print()
 
 
-print('                                         Etanol R$ 4,79')
+print('                                         Etanol R$ 4,7   9')
 print('                                         Gasolina Comum R$ 6,24')
 print('                                         Gasolina Aditivada R$ 6,65')
 print('                                         Diesel R$ 5,95')
@@ -60,6 +60,6 @@ if ajuda == "sim":
     print() 
     print('- Entretenimento para a viagem - músicas, podcasts ou até joguinhos para os passageiros ajudam a tornar o trajeto mais agradável.')
     print()
-    print('FAÇA UMA EXCELENTE VIAGEM') 
+    print(                                           'FAÇA UMA EXCELENTE VIAGEM') 
 else:
-    print('TUDO BEM! FAÇA UMA EXCELENTE VIAGEM')
+    print(                                        'TUDO BEM! FAÇA UMA EXCELENTE VIAGEM')
